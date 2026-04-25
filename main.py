@@ -5,6 +5,7 @@ import numpy as np
 
 # Variables
 width = 1280
+width = 1280
 height = 720
 folderPath = "Resources"
 w = 960
